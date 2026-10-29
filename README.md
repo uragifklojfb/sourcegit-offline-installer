@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client built with . Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SourceGit
 
-SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. It provides a clean visual commit graph, diff viewer, branch management, and basic Git operations in a lightweight cross-platform application.
+SourceGit is a free, open-source Git GUI client built with .NET and Avalonia for Windows, macOS, and Linux. Features include a visual commit graph, diff viewer, branch management, and stash operations. As a free and open-source option, SourceGit provides an alternative to commercial Git clients for developers who want a modern GUI without licensing costs.
 
 ---
 
 ## ❌ Problem: SourceGit is hard to access
 
-- **Early Development** — Feature set and stability still maturing
-- **Small Community** — Limited documentation and user resources
-- **Limited Advanced Features** — Some advanced Git operations not yet implemented
-- **Basic Interface** — Less polished than commercial alternatives
+- **Newer Project** — Smaller community and fewer tutorials than established Git clients
+- **Feature Completeness** — Some advanced Git features still being implemented
+- **Extension Ecosystem** — No plugin system for extending functionality
+- **Documentation** — Less comprehensive than major commercial Git clients
 
 ---
 
@@ -121,7 +121,7 @@ SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. I
 
 ---
 
-**SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client for Windows, macOS, and Linux. Install without internet connection today!
+**SourceGit Free Installer** — SourceGit is a free, open-source Git GUI client built with . Install without internet connection today!
 
 <div align="center">
 
